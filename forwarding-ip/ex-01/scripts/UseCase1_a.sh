@@ -1,3 +1,4 @@
+#!/bin/bash
 for N in 1 2
 do 
 	echo "IP Network 1"
